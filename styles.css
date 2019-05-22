@@ -1,0 +1,40 @@
+body {
+    font-family: 'Bubblegum Sans', cursive;
+}
+
+.bankName {
+    background: white;
+    color: black;
+    padding: 25px;
+    border-top: 25px double black;
+    border-left: 25px double black;
+    border-right: 25px double black;
+    text-align: center;
+    font-size: 50px;
+}
+
+.inputs {
+    margin-top: 15px;
+}
+
+.buttonDiv {
+    margin: 50px;
+    text-align: center;
+}
+
+.heading {
+    background: white;
+    color: black;
+    border: 10px double black;
+    
+}
+
+p {
+    margin: 5px;
+}
+
+.ledgerBorder {
+    border-bottom: 1px solid black;
+}
+body {
+    background-color:white;}
